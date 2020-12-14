@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Warnautama</item>
+        <item name="colorPrimaryDark">@color/Warnakedua</item>
+        <item name="colorAccent">@color/Warnaketiga</item>
+    </style>
+
+</resources>

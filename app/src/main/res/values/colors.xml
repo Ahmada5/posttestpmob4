@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Warnautama">#000000</color>
+    <color name="Warnakedua">#ff2a6d</color>
+    <color name="Warnaketiga">#01012b</color>
+    <color name="Warnakeempat">#FF8C00</color>
+    <color name="warnaT1">#d1f7ff</color>
+    <color name="warnaT2">#05d9e8</color>
+    <color name="warnaT3">#005678</color>
+</resources>
